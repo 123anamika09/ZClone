@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# ZClone
+A full-stack Zerodha clone built using the MERN stack, featuring user authentication, live stock UI, and mock trading functionality. It simulates real-world stock trading with portfolio tracking and a responsive design.
+>>>>>>> 13cc89fb5963da95b1e61e5b5671a60740876b68
