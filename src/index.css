@@ -11,6 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+<<<<<<< HEAD
 
 .nav-link{
   margin-left: 40px;
@@ -38,3 +39,5 @@ code {
   border-radius: 10px;
   border: none;
 }
+=======
+>>>>>>> 198d695 (Dashboard added)
